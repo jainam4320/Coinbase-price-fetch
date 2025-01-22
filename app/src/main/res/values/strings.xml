@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoinBase</string>
+    <string name="navHome">Home</string>
+    <string name="navTransaction">Transaction</string>
+    <string name="navAccount">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
